@@ -1,7 +1,7 @@
 //variables
 $color-principal: rgb(204, 147, 156)
 
-url ('https://fonts.googleapis.com/css2?family=Dela+Gothic+One&display=swap');
+url ('https://fonts.googleapis.com/css2?family=Dela+Gothic+One&display=swap', "Times New Roman");
 
 *{
     margin: 0;
@@ -20,7 +20,7 @@ header{
     background-color: rgb(204, 147, 156);
     height: 150%;
     font-size: 22px;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Times New Roman', ;
     text-transform: capitalize;
     padding: 40px;
 }
