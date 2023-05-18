@@ -430,4 +430,7 @@ body {
   .section img {
     font-size: 1rem;
   }
+}
+.nav {
+  z-index: 99;
 }/*# sourceMappingURL=estilos.css.map */
