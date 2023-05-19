@@ -304,6 +304,9 @@ h2{
     }
 }
 /*LOGIN*/
+.nav{
+    z-index: 99;
+}
 
 body{
     margin: 200px;
@@ -432,8 +435,6 @@ body{
         }
     }
 }
-.nav{
-    z-index: 99;
-}
+
 
 
