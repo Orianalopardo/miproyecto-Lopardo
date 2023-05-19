@@ -272,7 +272,7 @@ h2 {
   text-shadow: 2px 2px 1px rgb(201, 188, 188);
 }
 
-/*FORMULARIO*/
+/*TRABAJA CON NOSOTROS*/
 .contact-form {
   display: flex;
   flex-direction: column;
@@ -282,6 +282,9 @@ h2 {
 
 h2 {
   color: #ffffff;
+}
+.button{
+  padding-top: 20px;
 }
 
 .formulario {
