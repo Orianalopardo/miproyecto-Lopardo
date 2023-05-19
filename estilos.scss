@@ -306,7 +306,6 @@ h2{
 /*LOGIN*/
 .nav{
     z-index: 99;
-    z-index: 3;
 }
 
 body{
@@ -318,16 +317,17 @@ body{
     background-position: center;
     font-family: sans-serif;
 }
+.login{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
 
 .login-box {
     width: 320px;
     height: 420px;
     background: #000;
     color: #fff;
-    top: 50%;
-    left: 50%;
-    position: absolute;
-    transform: translate(-50%, -50%);
     box-sizing: border-box;
     padding: 70px 30px;
 }
